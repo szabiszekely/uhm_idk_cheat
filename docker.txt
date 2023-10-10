@@ -1,0 +1,17 @@
+1. töltsd le a saját gépedre az image-t
+-
+
+2. indítsd el egy interaktív konténerként, a benne futó webszervert tedd elérhetővé a helyi gépedről
+-
+
+3. válaszolj a konzolon feltett kérdésre - a válasz kérem egy szövegfájlba bemásolni
+-
+
+4.nyisd meg a weboldat amit a szerver kiszolgál és az ott látott tartalmat is másold be az előző fájlba
+-
+
+5.  gépen levő docker volume-ok listáját szintén másold be.
+-
+
+6.állítsd le a konténert és törölj mindenit a mit a munkád létrehozott.
+-
